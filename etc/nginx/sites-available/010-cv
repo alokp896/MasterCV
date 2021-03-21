@@ -4,7 +4,7 @@
 
 server {
 
-  server_name   cv.gsm-center.com.ua;
+  server_name   https://alokp896.github.io/Alok/;
 
   root          /var/www/html/cv.git/webroot;
   index         index.html;
